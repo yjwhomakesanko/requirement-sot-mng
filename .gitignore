@@ -1,0 +1,15 @@
+# Obsidian
+.obsidian/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Binary / generated files
+*.xlsx
+*.pdf
+*.html
+Images/
+
+# Temp
+*.tmp
